@@ -1,8 +1,7 @@
 <div align="center">
 </div>  
 
-<img width="1440" alt="GH banner" src="https://user-images.githubusercontent.com/116661385/224155958-1c606c06-f143-403d-bf7e-3ff449761a61.png">
-
+<img width="1440" alt="GH banner" src="https://user-images.githubusercontent.com/116661385/231333089-aa8ae03d-7fa7-4872-a4c6-cbda71ce4f7d.png">
 
 - 🌱 I’m currently learning React  
   
@@ -37,7 +36,6 @@
 
 
 </td><td valign="top" width="33%">
-
 
 
 </td></tr></table>  
